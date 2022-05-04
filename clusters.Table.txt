@@ -1,0 +1,46 @@
+Cluster (x,y,z)         size   size p-FWE   size p-FDR   size p-unc   peak p-FWE   peak p-unc
++30 -42 +50              651     0.000696     0.000872     0.000005     0.898403     0.000024
++48 -12 +16              585     0.001609     0.001009     0.000012     0.980105     0.000049
+-64 -12 +06              445     0.010617     0.004458     0.000078     0.903801     0.000025
+-26 -46 +54              347     0.044266     0.014183     0.000332     0.971507     0.000043
+-56 -34 +56              214     0.337278     0.089089     0.003015     0.999998     0.000258
+
+
+
+
+Cluster +30 -42 +50  :
+395 voxels (61%) covering 12% of atlas.PostCG r (Postcentral Gyrus Right)
+83 voxels (13%) covering 6% of atlas.SPL r (Superior Parietal Lobule Right)
+17 voxels (3%) covering 0% of atlas.PreCG r (Precentral Gyrus Right)
+11 voxels (2%) covering 1% of atlas.pSMG r (Supramarginal Gyrus, posterior division Right)
+145 voxels (22%) covering 0% of atlas.not-labeled
+
+Cluster +48 -12 +16  :
+204 voxels (35%) covering 23% of atlas.CO r (Central Opercular Cortex Right)
+105 voxels (18%) covering 8% of atlas.IC r (Insular Cortex Right)
+92 voxels (16%) covering 17% of atlas.PO r (Parietal Operculum Cortex Right)
+47 voxels (8%) covering 17% of atlas.HG r (Heschl's Gyrus Right)
+19 voxels (3%) covering 4% of atlas.PT r (Planum Temporale Right)
+2 voxels (0%) covering 0% of atlas.PreCG r (Precentral Gyrus Right)
+116 voxels (20%) covering 0% of atlas.not-labeled
+
+Cluster -64 -12 +6  :
+179 voxels (40%) covering 18% of atlas.CO l (Central Opercular Cortex Left)
+88 voxels (20%) covering 16% of atlas.PT l (Planum Temporale Left)
+31 voxels (7%) covering 10% of atlas.HG l (Heschl's Gyrus Left)
+28 voxels (6%) covering 1% of atlas.PostCG l (Postcentral Gyrus Left)
+19 voxels (4%) covering 7% of atlas.aSTG l (Superior Temporal Gyrus, anterior division Left)
+6 voxels (1%) covering 1% of atlas.PO l (Parietal Operculum Cortex Left)
+2 voxels (0%) covering 1% of atlas.pSTG l (Superior Temporal Gyrus, posterior division Left)
+1 voxels (0%) covering 0% of atlas.IC l (Insular Cortex Left)
+91 voxels (20%) covering 0% of atlas.not-labeled
+
+Cluster -26 -46 +54  :
+169 voxels (49%) covering 12% of atlas.SPL l (Superior Parietal Lobule Left)
+149 voxels (43%) covering 4% of atlas.PostCG l (Postcentral Gyrus Left)
+29 voxels (8%) covering 0% of atlas.not-labeled
+
+Cluster -56 -34 +56  :
+121 voxels (57%) covering 3% of atlas.PostCG l (Postcentral Gyrus Left)
+86 voxels (40%) covering 9% of atlas.aSMG l (Supramarginal Gyrus, anterior division Left)
+7 voxels (3%) covering 0% of atlas.not-labeled
